@@ -33,7 +33,6 @@ namespace App_Ocean.ViewModels
         private RelayCommand _showDialogCommand;
         private string _welcomeTitle = string.Empty;
 
-
         private ObservableCollection<HamburgerMenuGlyphItem> _HamburgerMenuItemSource;
 
         public ObservableCollection<HamburgerMenuGlyphItem> HamburgerMenuItemSource
